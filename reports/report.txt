@@ -1,0 +1,15 @@
+
+Password Audit Report
+=====================
+
+Password:
+Rahulkumar123@
+
+Strength:
+Strong
+
+Entropy:
+65.55 bits
+
+Recommendation:
+Use long and unique passwords.

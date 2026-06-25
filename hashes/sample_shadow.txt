@@ -1,0 +1,3 @@
+rahul:$6$abc123$xyz123
+john:$5$salt456$abcdef
+admin:$6$test789$ghijkl
