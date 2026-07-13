@@ -293,6 +293,7 @@ Detects hash types
 - SHA1
 - SHA256
 - SHA512
+<img width="837" height="241" alt="Screenshot 2026-06-26 at 7 10 47 PM" src="https://github.com/user-attachments/assets/83d3de94-b20b-40bb-8e1f-9d8cf3e28d9b" />
 <img width="837" height="241" alt="Screenshot 2026-06-26 at 7 10 47 PM" src="https://github.com/user-attachments/assets/5c58ca2e-55ba-437c-aae3-f0ca0863b443" />
 <img width="839" height="367" alt="Screenshot 2026-06-26 at 7 11 28 PM" src="https://github.com/user-attachments/assets/134ed5f2-d85c-4ea9-a717-f6383063f809" />
 
@@ -387,6 +388,7 @@ Entropy = log₂(character_set^length)
 ```
 
 Higher entropy indicates stronger passwords.
+<img width="1674" height="144" alt="image" src="https://github.com/user-attachments/assets/7540d644-f62a-4e8e-b454-e04952cc0c4d" />
 
 ---
 
@@ -419,11 +421,25 @@ Increase password length to 12+ characters.
 ```
 <img width="837" height="424" alt="Screenshot 2026-06-26 at 7 15 19 PM" src="https://github.com/user-attachments/assets/a01c82a5-2266-45fc-bd90-4dff45c994d5" />
 <img width="839" height="131" alt="Screenshot 2026-06-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/2f41322f-5cca-45a2-8457-a9c08f7004dc" />
-<img width="839" height="131" alt="Screenshot 2026-06-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/8236f28f-0e54-4b34-9fc3-d3be5911359b" />
 
 ---
 
 # Screenshots
+
+<img width="840" height="160" alt="Screenshot 2026-06-26 at 7 04 08 PM" src="https://github.com/user-attachments/assets/0e992776-c976-422b-ab40-e12b8a785f07" />
+
+<img width="836" height="241" alt="Screenshot 2026-06-26 at 7 04 24 PM" src="https://github.com/user-attachments/assets/c43eff08-35ad-41b3-b44b-afe5807c98ba" />
+<img width="839" height="296" alt="Screenshot 2026-06-26 at 7 03 40 PM" src="https://github.com/user-attachments/assets/ee06490e-16d6-4c04-b2e4-2615c1d58d5b" />
+<img width="838" height="326" alt="Screenshot 2026-06-28 at 1 34 27 PM" src="https://github.com/user-attachments/assets/a4f864c6-bbb1-43d8-885c-cbadc6f445b5" />
+<img width="837" height="672" alt="Screenshot 2026-06-26 at 7 36 50 PM" src="https://github.com/user-attachments/assets/21e02076-d5d6-4fbc-adb4-bd7cd94b1db7" />
+<img width="838" height="437" alt="Screenshot 2026-06-26 at 7 34 49 PM" src="https://github.com/user-attachments/assets/ae7458b7-6338-4fac-be8c-a8af9cde0bf7" />
+<img width="1094" height="819" alt="Screenshot 2026-06-26 at 7 34 27 PM" src="https://github.com/user-attachments/assets/7e0d7f91-0293-41d1-b793-ff6a5dae7c06" />
+<img width="829" height="127" alt="Screenshot 2026-06-26 at 7 38 02 PM" src="https://github.com/user-attachments/assets/e545d36e-8283-4868-ae5a-ddb125bb31d9" />
+<img width="1091" height="811" alt="Screenshot 2026-06-26 at 7 37 43 PM" src="https://github.com/user-attachments/assets/f39334ee-2d19-498f-9ba5-5823d2454e51" />
+<img width="1095" height="774" alt="Screenshot 2026-06-28 at 1 49 04 PM" src="https://github.com/user-attachments/assets/97141641-f4ab-4504-9d32-8a8436e9d1dd" />
+<img width="750" height="454" alt="Screenshot 2026-06-28 at 1 49 16 PM" src="https://github.com/user-attachments/assets/d443400c-a3fb-4166-b4dc-ef04eeb4fec9" />
+<img width="830" height="197" alt="Screenshot 2026-06-26 at 7 02 56 PM" src="https://github.com/user-attachments/assets/4e7b620b-adc9-4040-b83b-c779c2e81330" />
+<img width="838" height="146" alt="Screenshot 2026-06-26 at 7 05 20 PM" src="https://github.com/user-attachments/assets/1d867994-6b77-4d71-80e3-99aa0126e7e6" />
 
 # 📸 Sample Output
 
