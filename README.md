@@ -419,6 +419,7 @@ Increase password length to 12+ characters.
 ```
 <img width="837" height="424" alt="Screenshot 2026-06-26 at 7 15 19 PM" src="https://github.com/user-attachments/assets/a01c82a5-2266-45fc-bd90-4dff45c994d5" />
 <img width="839" height="131" alt="Screenshot 2026-06-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/2f41322f-5cca-45a2-8457-a9c08f7004dc" />
+<img width="839" height="131" alt="Screenshot 2026-06-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/8236f28f-0e54-4b34-9fc3-d3be5911359b" />
 
 ---
 
