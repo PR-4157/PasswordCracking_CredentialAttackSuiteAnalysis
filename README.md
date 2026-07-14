@@ -193,6 +193,7 @@ python main.py
 <img width="840" height="228" alt="Screenshot 2026-06-26 at 7 08 16 PM" src="https://github.com/user-attachments/assets/4c6c68ba-c9a7-44f3-a7f5-78613f80fce3" />
 <img width="839" height="213" alt="Screenshot 2026-06-26 at 7 08 56 PM" src="https://github.com/user-attachments/assets/55c1096d-dbad-44b8-80f4-0595c7b85e9e" />
 <img width="840" height="186" alt="Screenshot 2026-06-26 at 7 15 55 PM" src="https://github.com/user-attachments/assets/8776a66c-8819-49c4-9b78-35540e219d07" />
+<img width="2196" height="1516" alt="image" src="https://github.com/user-attachments/assets/68e929b6-9765-419d-a65e-0fbc16a22af7" />
 
 Run dictionary generator
 
@@ -201,6 +202,7 @@ python dictionary/generator.py
 ```
 <img width="840" height="131" alt="Screenshot 2026-06-26 at 7 08 35 PM" src="https://github.com/user-attachments/assets/489d563c-5bcf-4aa0-8c86-708c38ffeb75" />
 <img width="838" height="198" alt="Screenshot 2026-06-26 at 7 09 48 PM" src="https://github.com/user-attachments/assets/ae38b9fe-203c-41b4-8992-dc3ce12a549d" />
+<img width="2194" height="1560" alt="image" src="https://github.com/user-attachments/assets/52d3945f-17ae-4dd4-b746-53fd0244ca68" />
 
 Run password analyzer
 
@@ -208,6 +210,7 @@ Run password analyzer
 python analyzer/strength.py
 ```
 <img width="840" height="327" alt="Screenshot 2026-06-26 at 7 14 46 PM" src="https://github.com/user-attachments/assets/241b8661-ff14-433a-8495-42c5d709dde6" />
+<img width="2198" height="1086" alt="image" src="https://github.com/user-attachments/assets/56249c65-3e6f-4087-8832-cc195e5d5c7a" />
 
 Run dictionary attack simulator
 
@@ -215,6 +218,7 @@ Run dictionary attack simulator
 python bruteforce/simulator.py
 ```
 <img width="841" height="242" alt="Screenshot 2026-06-26 at 7 12 53 PM" src="https://github.com/user-attachments/assets/8a9d8b51-7c59-402e-9445-018e00959e78" />
+<img width="2196" height="870" alt="image" src="https://github.com/user-attachments/assets/fb9fdb13-e9c2-46a8-a083-aafe49946d3f" />
 
 ---
 
