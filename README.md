@@ -142,12 +142,18 @@ password-cracking-suite/
 ## Install required 
 '''
 code —-version
+
 python3 --version
+
 pip3 --version
+
 git —-version
+
 brew —-version
 '''
 <img width="1674" height="516" alt="image" src="https://github.com/user-attachments/assets/0a5a63c1-6d07-4280-a802-248ef86afd9f" />
+
+---
 
 ## Open project
 
