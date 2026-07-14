@@ -4,7 +4,7 @@ An Educational Cybersecurity Toolkit for Password Security Analysis, Dictionary 
 
 ---
 
-## 📖 Overview
+## Overview
 
 The **Password Cracking & Credential Attack Suite** is an educational cybersecurity project developed to demonstrate how attackers attempt to compromise weak passwords and how defenders can evaluate password security.
 
@@ -22,7 +22,7 @@ This toolkit **does not perform real-world password attacks**. It is intended st
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Learn password authentication concepts.
 - Understand password hashing.
@@ -35,7 +35,7 @@ This toolkit **does not perform real-world password attacks**. It is intended st
 
 ---
 
-## ✨ Features
+## Features
 
 - ✅ User Input Module
 - ✅ Dictionary Wordlist Generator
@@ -51,7 +51,7 @@ This toolkit **does not perform real-world password attacks**. It is intended st
 
 ---
 
-# 🏗 Project Architecture
+# Project Architecture
 
 ```
                     User Input
@@ -83,7 +83,7 @@ This toolkit **does not perform real-world password attacks**. It is intended st
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 password-cracking-suite/
@@ -118,7 +118,7 @@ password-cracking-suite/
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose              |
 | ---------- | -------------------- |
@@ -137,16 +137,16 @@ password-cracking-suite/
 
 ---
 
-# 💻 Installation
+# Installation
 
 ## Install required 
-
+'''
 code —-version
 python3 --version
 pip3 --version
 git —-version
 brew —-version
-
+'''
 <img width="1674" height="516" alt="image" src="https://github.com/user-attachments/assets/0a5a63c1-6d07-4280-a802-248ef86afd9f" />
 
 ## Open project
@@ -183,7 +183,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Running the Project
+# Running the Project
 
 Run the main menu
 
@@ -222,9 +222,9 @@ python bruteforce/simulator.py
 
 ---
 
-# 📚 Module Description
+# Module Description
 
-## 1️⃣ Dictionary Generator
+## Dictionary Generator
 
 Generates password candidates using:
 
@@ -247,7 +247,7 @@ rahul@123
 
 ---
 
-## 2️⃣ Password Mutation Engine
+## Password Mutation Engine
 
 Creates variations of passwords.
 
@@ -277,10 +277,11 @@ r@hul
 rahul2026
 ```
 <img width="838" height="198" alt="Screenshot 2026-06-26 at 7 09 48 PM" src="https://github.com/user-attachments/assets/9b167f61-cd71-42d2-b82a-a1743144b55e" />
+<img width="2192" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4bf04c4-0c39-4483-b60f-8a7804096acd" />
 
 ---
 
-## 3️⃣ Hash Module
+## Hash Module
 
 Reads sample hash files.
 
@@ -299,10 +300,11 @@ Detects hash types
 <img width="837" height="241" alt="Screenshot 2026-06-26 at 7 10 47 PM" src="https://github.com/user-attachments/assets/83d3de94-b20b-40bb-8e1f-9d8cf3e28d9b" />
 <img width="837" height="241" alt="Screenshot 2026-06-26 at 7 10 47 PM" src="https://github.com/user-attachments/assets/5c58ca2e-55ba-437c-aae3-f0ca0863b443" />
 <img width="839" height="367" alt="Screenshot 2026-06-26 at 7 11 28 PM" src="https://github.com/user-attachments/assets/134ed5f2-d85c-4ea9-a717-f6383063f809" />
+<img width="2196" height="1208" alt="image" src="https://github.com/user-attachments/assets/1b8be0d9-1df5-47e5-836f-3efcb1467458" />
 
 ---
 
-## 4️⃣ Dictionary Attack Simulation
+## Dictionary Attack Simulation
 
 Simulates how a password hash is compared against generated dictionary entries.
 
@@ -326,7 +328,7 @@ Password Found
 
 ---
 
-## 5️⃣ Brute Force Simulation
+## Brute Force Simulation
 
 Generates every possible password combination using selected characters.
 
@@ -348,10 +350,11 @@ This module demonstrates the exponential increase in password search space.
 
 <img width="838" height="409" alt="Screenshot 2026-06-26 at 7 13 21 PM" src="https://github.com/user-attachments/assets/746de858-f473-4af9-8fd0-d93ffa860bef" />
 <img width="837" height="368" alt="Screenshot 2026-06-26 at 7 13 47 PM" src="https://github.com/user-attachments/assets/a94dced3-777c-4630-ae53-1e29ba4aad52" />
+<img width="2204" height="902" alt="image" src="https://github.com/user-attachments/assets/76504f5c-fa68-45c1-87d4-7def96e157bd" />
 
 ---
 
-## 6️⃣ Password Strength Analyzer
+## Password Strength Analyzer
 
 Evaluates passwords based on:
 
@@ -380,7 +383,7 @@ Strong
 
 ---
 
-## 7️⃣ Password Entropy
+## Password Entropy
 
 Entropy estimates password complexity.
 
@@ -392,10 +395,11 @@ Entropy = log₂(character_set^length)
 
 Higher entropy indicates stronger passwords.
 <img width="1674" height="144" alt="image" src="https://github.com/user-attachments/assets/7540d644-f62a-4e8e-b454-e04952cc0c4d" />
+<img width="2188" height="766" alt="image" src="https://github.com/user-attachments/assets/8094d4f3-e019-4f80-8786-ff98077efbe6" />
 
 ---
 
-## 8️⃣ Report Generator
+## Report Generator
 
 Creates audit reports containing:
 
@@ -424,13 +428,19 @@ Increase password length to 12+ characters.
 ```
 <img width="837" height="424" alt="Screenshot 2026-06-26 at 7 15 19 PM" src="https://github.com/user-attachments/assets/a01c82a5-2266-45fc-bd90-4dff45c994d5" />
 <img width="839" height="131" alt="Screenshot 2026-06-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/2f41322f-5cca-45a2-8457-a9c08f7004dc" />
+<img width="2194" height="1212" alt="image" src="https://github.com/user-attachments/assets/75f8eb3a-1d28-4e8c-ade4-6dd566a35b69" />
 
 ---
 
 # Screenshots
 
 <img width="840" height="160" alt="Screenshot 2026-06-26 at 7 04 08 PM" src="https://github.com/user-attachments/assets/0e992776-c976-422b-ab40-e12b8a785f07" />
-
+<img width="2198" height="596" alt="image" src="https://github.com/user-attachments/assets/8b384957-7aa5-43b5-a955-87b4ab9be3f2" />
+<img width="2198" height="854" alt="image" src="https://github.com/user-attachments/assets/c5046b74-1cc6-4675-a72e-00d04165e288" />
+<img width="1098" height="604" alt="Screenshot 2026-07-14 at 5 00 41 PM" src="https://github.com/user-attachments/assets/4b6c3b2d-b8b8-4cd1-af5f-f57345748254" />
+<img width="2194" height="774" alt="image" src="https://github.com/user-attachments/assets/4cfa03d5-2df2-4de1-b449-e1532f6c2b5a" />
+<img width="2194" height="1492" alt="image" src="https://github.com/user-attachments/assets/0545b427-daea-4fee-81a7-2c6cfe4062ee" />
+<img width="2200" height="1034" alt="image" src="https://github.com/user-attachments/assets/87ec90fa-6b46-4fca-86af-062a3559f81a" />
 <img width="836" height="241" alt="Screenshot 2026-06-26 at 7 04 24 PM" src="https://github.com/user-attachments/assets/c43eff08-35ad-41b3-b44b-afe5807c98ba" />
 <img width="839" height="296" alt="Screenshot 2026-06-26 at 7 03 40 PM" src="https://github.com/user-attachments/assets/ee06490e-16d6-4c04-b2e4-2615c1d58d5b" />
 <img width="838" height="326" alt="Screenshot 2026-06-28 at 1 34 27 PM" src="https://github.com/user-attachments/assets/a4f864c6-bbb1-43d8-885c-cbadc6f445b5" />
@@ -444,7 +454,7 @@ Increase password length to 12+ characters.
 <img width="830" height="197" alt="Screenshot 2026-06-26 at 7 02 56 PM" src="https://github.com/user-attachments/assets/4e7b620b-adc9-4040-b83b-c779c2e81330" />
 <img width="838" height="146" alt="Screenshot 2026-06-26 at 7 05 20 PM" src="https://github.com/user-attachments/assets/1d867994-6b77-4d71-80e3-99aa0126e7e6" />
 
-# 📸 Sample Output
+# Sample Output
 
 Main Menu
 
@@ -464,7 +474,7 @@ Password Cracking Toolkit
 
 ---
 
-# 🔒 Security Notice
+# Security Notice
 
 This project is developed **only for educational purposes**.
 
@@ -480,7 +490,7 @@ Unauthorized password attacks against systems you do not own or have permission 
 
 ---
 
-# 📈 Future Improvements
+# Future Improvements
 
 - GUI using Tkinter or Streamlit
 - GPU Password Simulation
@@ -516,7 +526,7 @@ Git & GitHub Workflow
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 RahulKumar Prajapati
 
@@ -529,7 +539,7 @@ https://github.com/PR-4157
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 - Python Documentation
 - Passlib
