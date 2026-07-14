@@ -6,10 +6,10 @@ Password:
 Rahulkumar123@
 
 Strength:
-Strong
+4
 
 Entropy:
-65.55 bits
+65.0 bits
 
 Recommendation:
 Use long and unique passwords.
