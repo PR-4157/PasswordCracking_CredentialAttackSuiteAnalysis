@@ -243,7 +243,6 @@ Rahul
 rahul05041996
 rahul@123
 ```
-<img width="839" height="213" alt="Screenshot 2026-06-26 at 7 09 18 PM" src="https://github.com/user-attachments/assets/950b7891-578d-40c6-a396-4e162be3964b" />
 <img width="839" height="213" alt="Screenshot 2026-06-26 at 7 08 56 PM" src="https://github.com/user-attachments/assets/a7015a98-91e1-4ed6-b945-ad41f39e7262" />
 
 ---
